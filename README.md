@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**akash-dutta-au7/akash-dutta-au7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hola. I'm Akash here. 👋
 
 Here are some ideas to get you started:
 
